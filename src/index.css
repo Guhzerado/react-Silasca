@@ -1,0 +1,9 @@
+/* ESTILOS GLOBAIS - O QUE VARIAS PAGINAS USARÃO */
+
+.card{
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  margin: 20px 0;
+  box-shadow: 0 2px 4px rgb(red, green, blue);
+  background-color: rgb(red, green, blue);
+}
